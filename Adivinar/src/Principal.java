@@ -1,5 +1,5 @@
 import java.util.Scanner;
-
+/*EDITADO POR MANU*/
 public class Principal {
 	private static Scanner sc;
 
